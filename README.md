@@ -5,11 +5,7 @@ and has actively contributed to the community by providing bug fixes for open so
 
 
 Percona is participating<sup>*</sup> in the GSoC 2021, and sees it as an excellent opportunity for students to participate in the active and vibrant open source community.
-Our GSoC Projects are focussed on improving Percona Monitoring and Management (PMM) , which is an open source platform for managing and monitoring MySQL, PostgresQL & MongoDB performance. 
-It provides thorough time-based analysis for MySQL, PostgresQL & MongoDB servers to ensure that your data works as efficiently as possible.
-
-
-Our GSoC Projects are focused on improving Percona Monitoring and Management (PMM) , which is an open source platform for managing and monitoring MySQL, PostgresQL & MongoDB performance. It provides thorough time-based analysis for MySQL, PostgresQL & MongoDB servers to ensure that your data works as efficiently as possible.
+Our GSoC Projects are focussed on improving Percona Monitoring and Management (PMM) , which is an open source platform for managing and monitoring MySQL, PostgresQL & MongoDB performance. It provides thorough time-based analysis for MySQL, PostgresQL & MongoDB servers to ensure that your data works as efficiently as possible.
 
 [Visit the Google Summer of Code website to learn more.](https://summerofcode.withgoogle.com/)
 
